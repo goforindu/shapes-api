@@ -1,0 +1,282 @@
+{
+    "fruits":[
+      {
+        "name": "Apple",
+        "desc": "",
+        "img_url": "apple.png",
+        "audio_desc_url": "apple.mp3",
+        "colour": "tomato"
+      },
+      {
+        "name": "Orange",
+        "desc": "",
+        "img_url": "orange.png",
+        "audio_desc_url": "orange.mp3",
+        "colour": "tomato"
+      },
+      {
+        "name": "Watermelon",
+        "desc": "",
+        "img_url": "watermelon.png",
+        "audio_desc_url": "watermelon.mp3",
+        "colour": "tomato"
+      },
+      {
+        "name": "Coconut",
+        "desc": "",
+        "img_url": "coconut.png",
+        "audio_desc_url": "coconut.mp3",
+        "colour": "tomato"
+      },
+      {
+        "name": "Banana",
+        "desc": "",
+        "img_url": "banana.png",
+        "audio_desc_url": "banana.mp3",
+        "colour": "tomato"
+      },
+      {
+        "name": "Pineapple",
+        "desc": "",
+        "img_url": "pineapple.png",
+        "audio_desc_url": "pineapple.mp3",
+        "colour": "tomato"
+      },
+      {
+        "name": "Peach",
+        "desc": "",
+        "img_url": "peach.png",
+        "audio_desc_url": "peach.mp3",
+        "colour": "tomato"
+      },
+      {
+        "name": "Mango",
+        "desc": "",
+        "img_url": "mango.png",
+        "audio_desc_url": "mango.mp3",
+        "colour": "tomato"
+      },
+      {
+        "name": "Muskmelon",
+        "desc": "",
+        "img_url": "muskmelon.png",
+        "audio_desc_url": "muskmelon.mp3",
+        "colour": "tomato"
+      },
+      {
+        "name": "Blueberry",
+        "desc": "",
+        "img_url": "blueberry.png",
+        "audio_desc_url": "blueberry.mp3",
+        "colour": "tomato"
+      },
+      {
+        "name": "Cherry",
+        "desc": "",
+        "img_url": "cherry.png",
+        "audio_desc_url": "cherry.mp3",
+        "colour": "tomato"
+      },
+      {
+        "name": "Pomegranate",
+        "desc": "",
+        "img_url": "pomegranate.png",
+        "audio_desc_url": "pomegranate.mp3",
+        "colour": "tomato"
+      },
+      {
+        "name": "Strawberry",
+        "desc": "",
+        "img_url": "red.png",
+        "audio_desc_url": "strawberry.mp3",
+        "colour": "tomato"
+      },
+      {
+        "name": "Pear",
+        "desc": "",
+        "img_url": "pear.png",
+        "audio_desc_url": "pear.mp3",
+        "colour": "tomato"
+      },
+      {
+        "name": "Grapes",
+        "desc": "",
+        "img_url": "grapes.png",
+        "audio_desc_url": "grapes.mp3",
+        "colour": "tomato"
+      },
+      {
+        "name": "Papaya",
+        "desc": "",
+        "img_url": "papaya.png",
+        "audio_desc_url": "papaya.mp3",
+        "colour": "tomato"
+      },
+      {
+        "name": "Guava",
+        "desc": "",
+        "img_url": "guava.png",
+        "audio_desc_url": "guava.mp3",
+        "colour": "tomato"
+      },
+      {
+        "name": "Plum",
+        "desc": "",
+        "img_url": "plum.png",
+        "audio_desc_url": "plum.mp3",
+        "colour": "tomato"
+      },
+      {
+        "name": "Kiwi",
+        "desc": "",
+        "img_url": "kiwi.png",
+        "audio_desc_url": "kiwi.mp3",
+        "colour": "tomato"
+      }
+    ],
+    
+    "shapes":[
+      {
+        "name": "Circle",
+        "desc": "",
+        "img_url": "circle.png",
+        "audio_desc_url": "circle.mp3",
+        "colour": "tomato"
+      },
+      {
+        "name": "Square",
+        "desc": "",
+        "img_url": "square.png",
+        "audio_desc_url": "square.mp3",
+        "colour": "tomato"
+      },
+      {
+        "name": "Triangle",
+        "desc": "",
+        "img_url": "triangle.png",
+        "audio_desc_url": "triangle.mp3",
+        "colour": "tomato"
+      },
+      {
+        "name": "Heart",
+        "desc": "",
+        "img_url": "heart.png",
+        "audio_desc_url": "heart.mp3",
+        "colour": "tomato"
+      },
+      {
+        "name": "Cone",
+        "desc": "",
+        "img_url": "cone.png",
+        "audio_desc_url": "cone.mp3",
+        "colour": "tomato"
+      },
+      {
+        "name": "Rectangle",
+        "desc": "",
+        "img_url": "rectangle.png",
+        "audio_desc_url": "rectangle.mp3",
+        "colour": "tomato"
+      },
+      {
+        "name": "Star",
+        "desc": "",
+        "img_url": "star.png",
+        "audio_desc_url": "star.mp3",
+        "colour": "tomato"
+      },
+      {
+        "name": "Oval",
+        "desc": "",
+        "img_url": "oval.png",
+        "audio_desc_url": "oval.mp3",
+        "colour": "tomato"
+      },
+      {
+        "name": "Diamond",
+        "desc": "",
+        "img_url": "diamond.png",
+        "audio_desc_url": "diamond.mp3",
+        "colour": "tomato"
+      },
+      {
+        "name": "Crescent",
+        "desc": "",
+        "img_url": "crescent.png",
+        "audio_desc_url": "crescent.mp3",
+        "colour": "tomato"
+      }
+    ],
+    "wild":[
+      {
+        "name": "Lion",
+        "desc": "",
+        "img_url": "lion.png",
+        "audio_desc_url": "lion.mp3",
+        "colour": "orange"
+      },
+      {
+        "name": "Rhinoceros",
+        "desc": "",
+        "img_url": "rhino.png",
+        "audio_desc_url": "rhinoceros.mp3",
+        "colour": "orange"
+      },
+      {
+        "name": "Hippopotamus",
+        "desc": "",
+        "img_url": "hippo.png",
+        "audio_desc_url": "hippopotamus.mp3",
+        "colour": "orange"
+      },
+      {
+        "name": "Leopard",
+        "desc": "",
+        "img_url": "leopard.png",
+        "audio_desc_url": "leopard.mp3",
+        "colour": "orange"
+      },
+      {
+        "name": "Crocodile",
+        "desc": "",
+        "img_url": "crocodile.png",
+        "audio_desc_url": "crocodile.mp3",
+        "colour": "orange"
+      },
+      {
+        "name": "Wolf",
+        "desc": "",
+        "img_url": "wolf.png",
+        "audio_desc_url": "wolf.mp3",
+        "colour": "orange"
+      },
+      {
+        "name": "Fox",
+        "desc": "",
+        "img_url": "fox.png",
+        "audio_desc_url": "fox.mp3",
+        "colour": "orange"
+      },
+      {
+        "name": "Bear",
+        "desc": "",
+        "img_url": "bear.png",
+        "audio_desc_url": "bear.mp3",
+        "colour": "orange"
+      },
+      {
+        "name": "Polar Bear",
+        "desc": "",
+        "img_url": "polar.png",
+        "audio_desc_url": "polar.mp3",
+        "colour": "orange"
+      },
+      {
+        "name": "Tiger",
+        "desc": "",
+        "img_url": "tiger.png",
+        "audio_desc_url": "tiger.mp3",
+        "colour": "orange"
+      }
+    ]
+  }
